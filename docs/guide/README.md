@@ -92,4 +92,4 @@ Throughout the docs, we will often use the `router` instance. Keep in mind that 
 
 You can also check out this example [live](https://jsfiddle.net/yyx990803/xgrjzsup/).
 
-Notice that a `<router-link>` automatically gets the `.router-link-active` class when its target route is matched. You can learn more about it in its [API reference](../api/#router-link).
+Notice that a `<router-link>` automatically gets the `.router-link-active` class when its target route is matched. You can learn more about it in its [API reference](../api/README.md#router-link).
